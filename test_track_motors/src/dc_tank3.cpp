@@ -19,7 +19,7 @@ int SIGNAL_DELAY = 300; // Delay in m
 
 int TRK_START_PWM = 100;
 int TRK_STOP_PWM = 256;
-int TRK_STEP_PWM = 5;
+int TRK_STEP_PWM = 1;
 
 char str[50];
 
