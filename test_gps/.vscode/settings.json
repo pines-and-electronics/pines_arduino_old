@@ -1,6 +1,0 @@
-{
-    "terminal.integrated.env.linux": {
-        "PATH": "/home/batman/.platformio/penv/bin:/home/batman/.platformio/penv:/home/linuxbrew/.linuxbrew/bin:/home/batman/.local/bin:/home/batman/anaconda3/bin:/usr/local/cuda-9.0/bin:/home/batman/.cargo/bin:/home/batman/bin:/home/batman/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/batman/.antigen/bundles/robbyrussell/oh-my-zsh/lib:/home/batman/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/vi-mode:/home/batman/.antigen/bundles/supercrabtree/k:/home/batman/.antigen/bundles/iboyperson/zsh-pipenv:/home/batman/.antigen/bundles/zsh-users/zsh-autosuggestions",
-        "PLATFORMIO_CALLER": "vscode"
-    }
-}
